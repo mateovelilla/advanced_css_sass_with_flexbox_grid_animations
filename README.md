@@ -18,3 +18,8 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 - Convert px to rem
     -   Create a base unit in pixel.
     -   use that unit to based in rem units.
+- The unit Rem is not supported by Internet 9
+
+- To define the size in the box model without padding o margin values by default
+  We should define the property [`box-sizing: boder-box`](https://developer.mozilla.org/es/docs/Web/CSS/box-sizing).
+  
