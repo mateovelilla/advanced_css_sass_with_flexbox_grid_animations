@@ -8,10 +8,10 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 - 🧠 [animation-iteration-count](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count)
 - 🧠 [Animation fill mode](https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode)
 
-🧠 [Backface Visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility)
+- 🧠 [Backface Visibility](https://developer.mozilla.org/en-US/docs/Web/CSS/backface-visibility)
 
-🧠 [Box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
-
+- 🧠 [Box-shadow](https://developer.mozilla.org/en-US/docs/Web/CSS/box-shadow)
+- 🧠 [Transitions](https://developer.mozilla.org/en-US/docs/Web/CSS/transition)
 ---
 ### 🧠 ADVICES:
 
