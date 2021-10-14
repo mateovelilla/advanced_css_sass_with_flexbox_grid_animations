@@ -1,0 +1,15 @@
+*,
+*::before,
+*::after{ /* Reset css*/
+    margin: 0;
+    padding: 0;
+    box-sizing: inherit;
+}
+html {
+    // This defines what 1rem is
+    font-size: 62.5%; /*By default the font-size value is 16 pixeles so, to get this value in percent with 10 pixeles have to do the next operation 10/16 = 62.5 */
+}
+
+body {
+    box-sizing: border-box;
+}
