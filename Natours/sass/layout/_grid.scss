@@ -1,6 +1,5 @@
 .row {
     max-width: $grid-width;
-    background-color: #eee;
     margin: 0 auto;
     &:not(:last-child) { // is a conditional to exclude the last child element
         margin-bottom: $gutter-vertical;
@@ -9,7 +8,6 @@
     // Select all elements that starts with "col-", if we use *, eg: [class*="col-"] we select all element that INCLUDE "col-"
     // or [class$="col-"] select all elements that ends with "col-"
     [class^="col-"]{ 
-        background-color: orangered;
         float: left;
         &:not(:last-child) {
             margin-right: $gutter-horizontal;
