@@ -16,6 +16,8 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Background Clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip)
 
+🧠 [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
+
 ---
 ### 🧠 ADVICES:
 
