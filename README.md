@@ -22,6 +22,8 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Outline-offset: sets the amount of space between an outline and the edge or border of an element.](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset)
 
+🧠 [Icons](https://linea.io/)
+
 ---
 ### 🧠 ADVICES:
 
