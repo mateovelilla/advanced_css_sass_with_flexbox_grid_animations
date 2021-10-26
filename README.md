@@ -24,6 +24,8 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Icons](https://linea.io/)
 
+🧠  [Perspective](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective)
+
 ---
 ### 🧠 ADVICES:
 
