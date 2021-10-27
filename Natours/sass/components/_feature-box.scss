@@ -13,6 +13,7 @@
         color: transparent;
         background-image: linear-gradient(to right, $color-primary-light, $color-primary-dark);
         background-clip: text;
+        -webkit-background-clip: text;
     }
     &:hover {
         transform: translateY(-1.5rem) scale(1.03);
