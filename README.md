@@ -39,6 +39,12 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Free image](https://unsplash.com/)
 
+🧠 [Shape outside](https://developer.mozilla.org/en-US/docs/Web/CSS/shape-outside)
+
+🧠 [Figure HTML Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
+
+🧠 [Filter property to create blur efect](https://developer.mozilla.org/es/docs/Web/CSS/filter)
+
 ---
 ### 🧠 ADVICES:
 
