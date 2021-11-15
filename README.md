@@ -19,13 +19,9 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Background Clip](https://developer.mozilla.org/en-US/docs/Web/CSS/background-clip)
 
-🧠 [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
-
 🧠 [Outline: border in box](https://developer.mozilla.org/en-US/docs/Web/CSS/outline)
 
 🧠 [Outline-offset: sets the amount of space between an outline and the edge or border of an element.](https://developer.mozilla.org/en-US/docs/Web/CSS/outline-offset)
-
-🧠 [Icons](https://linea.io/)
 
 🧠 [Perspective](https://developer.mozilla.org/en-US/docs/Web/CSS/perspective)
 
@@ -37,13 +33,24 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Box Decoration Break](https://developer.mozilla.org/en-US/docs/Web/CSS/box-decoration-break)
 
-🧠 [Free image](https://unsplash.com/)
-
 🧠 [Shape outside](https://developer.mozilla.org/en-US/docs/Web/CSS/shape-outside)
 
 🧠 [Figure HTML Element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/figure)
 
 🧠 [Filter property to create blur efect](https://developer.mozilla.org/es/docs/Web/CSS/filter)
+
+🧠 [Object Fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
+
+---
+### TOOLS:
+
+🧠 [Video to Covers](https://coverr.co/)
+
+🧠 [Icons](https://linea.io/)
+
+🧠 [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
+
+🧠 [Free image](https://unsplash.com/)
 
 ---
 ### 🧠 ADVICES:
