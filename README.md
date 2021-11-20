@@ -41,6 +41,11 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Object Fit](https://developer.mozilla.org/en-US/docs/Web/CSS/object-fit)
 
+🧠 [Placeholder-shown to inputs](https://developer.mozilla.org/en-US/docs/Web/CSS/:placeholder-shown)
+
+🧠 [Sibling selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_combinator)
+
+
 ---
 ### TOOLS:
 
