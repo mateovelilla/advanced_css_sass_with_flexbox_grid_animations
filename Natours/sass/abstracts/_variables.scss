@@ -32,3 +32,24 @@ $color-black: #000;
 $grid-width: 114rem;
 $gutter-vertical: 8rem;
 $gutter-horizontal: 6rem;
+
+//https://www.youtube.com/watch?v=Agav-W1viFI
+
+// Z-INDEX Scale
+$_z1: 1;
+$_z2: 2;
+$_z3: 3;
+$_z4: 4;
+$_z5: 5;
+$_z6: 6;
+$_z7: 7;
+$_z8: 8;
+$_z9: 9;
+$_z10: 10;
+
+// Z-INDEX elements
+
+$z-menu: $_z8;
+$z-menu-nav: $_z9;
+$z-menu-button: $_z10;
+$z-composition-photo: $_z1;
