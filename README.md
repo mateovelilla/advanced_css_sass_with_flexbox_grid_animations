@@ -45,6 +45,11 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Sibling selector](https://developer.mozilla.org/en-US/docs/Web/CSS/Adjacent_sibling_combinator)
 
+🧠 [Cubic Bezier Transition](https://developer.mozilla.org/en-US/docs/Web/CSS/easing-function)
+
+🧠 [Cubic Bezier Transition in CSS-TRICKS](https://css-tricks.com/advanced-css-animation-using-cubic-bezier/)
+
+
 
 ---
 ### TOOLS:
@@ -56,6 +61,14 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 🧠 [Glyphs](https://css-tricks.com/snippets/html/glyphs/)
 
 🧠 [Free image](https://unsplash.com/)
+
+🧠 [Generate Cubic Beziers 1](https://easings.net/)
+
+🧠 [Generate Cubic Beziers 2](https://cubic-bezier.com)
+
+🧠 [Generate Cubic Beziers 3](https://cubic-bezier.com)
+
+
 
 ---
 ### 🧠 ADVICES:
