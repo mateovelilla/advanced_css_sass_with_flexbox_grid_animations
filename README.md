@@ -49,6 +49,10 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Cubic Bezier Transition in CSS-TRICKS](https://css-tricks.com/advanced-css-animation-using-cubic-bezier/)
 
+🧠 [Display Property](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+
+🧠 [middle hyphen Property to text](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
+
 
 
 ---
