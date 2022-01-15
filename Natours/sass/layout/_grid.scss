@@ -1,16 +1,34 @@
 .row {
     max-width: $grid-width;
     margin: 0 auto;
+    
     &:not(:last-child) { // is a conditional to exclude the last child element
         margin-bottom: $gutter-vertical;
+        @include respond( tab-port) {
+            margin-bottom: $gutter-vertical-small;
+        }
     }
+
+    @include respond( tab-port) {
+        max-width: $grid-width-small;
+        padding: 0 3rem;
+    }
+
     @include clearfix;
     // Select all elements that starts with "col-", if we use *, eg: [class*="col-"] we select all element that INCLUDE "col-"
     // or [class$="col-"] select all elements that ends with "col-"
-    [class^="col-"]{ 
+    [class^="col-"] { 
         float: left;
         &:not(:last-child) {
             margin-right: $gutter-horizontal;
+            
+            @include respond( tab-port) {
+                margin-right: 0;
+                margin-bottom: $gutter-vertical-small;
+            }
+        }
+        @include respond( tab-port) {
+            width: 100% !important;
         }
     }
     .col-1-of-2 {
