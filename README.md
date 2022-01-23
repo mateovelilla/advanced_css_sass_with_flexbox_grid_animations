@@ -72,7 +72,7 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Generate Cubic Beziers 3](https://cubic-bezier.com)
 
-
+🧠 [Simulate Devices](https://sizzy.co/)
 
 ---
 ### 🧠 ADVICES:

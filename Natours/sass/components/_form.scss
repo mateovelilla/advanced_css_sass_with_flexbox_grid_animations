@@ -23,6 +23,9 @@
         display: block;
         border-bottom: 3px solid transparent;
         transition: all .3s;
+        @include respond(tab-port) {
+            width: 100%;
+        }
         &:focus {
             outline: none; // Disabled style focus
             box-shadow: 0 1rem 2rem rgba($color-black, .1);
@@ -43,6 +46,10 @@
     &__radio-group {
         width: 49%;
         display: inline-block;
+        @include respond(tab-port) {
+            width: 100%;
+            margin-bottom: 1rem;
+        }
     }
     &__radio-label {
         font-size: $default-font-size;
