@@ -53,6 +53,8 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [middle hyphen Property to text](https://developer.mozilla.org/en-US/docs/Web/CSS/hyphens)
 
+🧠 [Detect Resolution with css](https://developer.mozilla.org/en-US/docs/Web/CSS/resolution)
+
 
 
 ---
