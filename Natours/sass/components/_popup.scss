@@ -9,6 +9,11 @@
     opacity: 0; // strategy to animate the popup
     visibility: hidden; // strategy to animate the popup
     transition: all .2s; // strategy to animate the popup
+    @supports(-webkit-bacdrop-filter: blur(10px)) or (backdrop-filter: blur(10px)){
+        -webkit-bacdrop-filter: blur(10px);
+        backdrop-filter: blur(10px);
+        background-color: rgba($color-black, .3);
+    }
     &__content { 
         @include absCenter;
         width: 75%;

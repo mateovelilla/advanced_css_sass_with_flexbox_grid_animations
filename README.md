@@ -55,6 +55,11 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 
 🧠 [Detect Resolution with css](https://developer.mozilla.org/en-US/docs/Web/CSS/resolution)
 
+🧠 [Brightness](https://developer.mozilla.org/en-US/docs/Web/CSS/filter-function/brightness)
+
+🧠 [Supports](https://developer.mozilla.org/en-US/docs/Web/CSS/@supports)
+
+
 
 
 ---
@@ -75,6 +80,8 @@ My progress in the udemy course https://www.udemy.com/course/advanced-css-and-sa
 🧠 [Generate Cubic Beziers 3](https://cubic-bezier.com)
 
 🧠 [Simulate Devices](https://sizzy.co/)
+
+🧠 [Can I USE](https://caniuse.com/)
 
 ---
 ### 🧠 ADVICES:
