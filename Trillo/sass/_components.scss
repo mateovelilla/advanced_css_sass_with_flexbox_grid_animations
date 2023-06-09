@@ -67,6 +67,7 @@
     display: flex;
     align-items: center;
 
+
     & > * {
         padding: 0 2rem;
         cursor: pointer;
@@ -119,11 +120,21 @@
     font-size: 1.4rem;
     list-style: none;
     margin-top: 3.5rem;
+    @media only screen and (max-width: $bp-medium) {
+        display: flex;
+        margin: 0;
+    }
     &__item {
         position: relative;
 
         &:not(:last-child) {
             margin-bottom: .5rem;
+            @media only screen and (max-width: $bp-medium) {
+                margin: 0;
+            }
+        }
+        @media only screen and (max-width: $bp-medium) {
+            flex: 1;
         }
     }
 
@@ -139,6 +150,7 @@
         transition: transform .2s,
             width .4s cubic-bezier(1,0,0,1).2s,
             background-color .1s;
+        
 
     }
     &__item:hover::before,
@@ -159,6 +171,10 @@
         z-index: 10;
         display: flex;
         align-items: center;
+        @media only screen and (max-width: $bp-medium) {
+            justify-content: center;
+            padding: 2rem;
+        }
     }
     &__icon {
         width: 1.75rem;
@@ -176,6 +192,10 @@
     color: var(--color-grey-light-4);
     text-align: center;
     padding: 2.5rem;
+   
+    @media only screen and (max-width: $bp-medium) {
+        display: none;
+    }
 }
 
 ////////////////////////////////////////
@@ -344,7 +364,9 @@
     &__count{
         margin-right: auto; // TRICK to separate content in the las part of container
     }
-    &__friends{}
+    &__friends {
+        display: flex;
+    }
     &__photo {
         box-sizing: content-box;
         height: 4rem;
@@ -367,6 +389,11 @@
     margin-bottom: 3.5rem;
     position: relative;
     overflow: hidden;
+
+    @media only screen and (max-width: $bp-medium) {
+        padding: 2rem;
+        margin-bottom: 3rem;
+    }
     &__text {
         margin-bottom: 2rem;
         z-index: 10;
@@ -425,6 +452,10 @@
 .cta {
     padding: 3.5rem;
     text-align: center;
+
+    @media only screen and (max-width: $bp-medium) {
+        padding: 2.5rem 0;
+    }
 
     &__book-now {
         font-size: 2rem;
