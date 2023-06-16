@@ -13,8 +13,9 @@
 }
 
 // MEDIA QUERY MANAGER
-/*
-    0   -   600px:      Phone
+/* 
+    0   -   320px:      Mobile S
+    320 -   600px:      Phone
     600 -   900px:      Tablet portait
     900 -   1200px:     Tablet landscape
     [1200  -   1800px]  Is where our normal style apply
@@ -29,6 +30,9 @@
 */
 
 @mixin respond($breakpoint) {
+    @if $breakpoint == mobile-s {
+        @media only screen and (max-width: 20.5em) { @content }; // 320px   
+    }
     @if $breakpoint == phone {
         @media only screen and (max-width: 37.5em) { @content }; // 600px
     }

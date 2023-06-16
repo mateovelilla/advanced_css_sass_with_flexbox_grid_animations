@@ -25,7 +25,7 @@ body {
         */
         @include respond(phone) {
             letter-spacing: 1rem;
-            font-family: 5rem;
+            font-size: 5rem;
         }
 
     }
@@ -58,6 +58,10 @@ body {
             *   animation-delay: 3s; Delay to start the animation
             *   animation-iteration-count: 3; Loop to repeat the animation
             */
+            @include respond(mobile-s){
+                letter-spacing: .5rem;
+                font-size: 3rem;
+            }
             @include respond(phone) {
                 letter-spacing: 1rem;
                 font-family: 5rem;

@@ -27,11 +27,19 @@
         -webkit-clip-path: polygon(0 0, 100% 0,100% 45vh, 0 80%);
         clip-path: polygon(0 0,100% 0,100% 42vh, 0 80%);
     }
+    @include respond(mobile-s) {
+        height: 60vh;
+        -webkit-clip-path: polygon(0 0, 100% 0,100% 45vh, 0 80%);
+        clip-path: polygon(0 0,100% 0,100% 42vh, 0 100%);
+    }
 
     &__logo-box {
         position: absolute;
         top: 4rem;
         left: 4rem;
+        @include respond(mobile-s) {
+            left: 15rem;
+        }
     
     }
     &__logo{
