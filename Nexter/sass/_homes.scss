@@ -44,17 +44,25 @@
         transform: translateY(50%);
     }
     &__location,
+    &__rooms {
+        margin-top: 2.5rem;
+    }
+    &__location,
     &__rooms,
     &__area,
     &__price {
-
+        font-size: 1.5rem;
+        margin-left: 2rem;
+        display: flex;
+        align-items: center;
         svg {
             fill: $color-primary;
             height: 2rem;
             width: 2rem;
+            margin-right: 1rem;
         }
-        p {
-
-        }
+    }
+    &__btn {
+        grid-column: 1 / -1;
     }
 }
